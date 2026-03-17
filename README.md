@@ -23,9 +23,6 @@ https://mateusz2026.github.io/Frontend-Mentor-QR-code/
 - How to structure HTML properly
 - How to work with spacing and typography
 
-## 📸 Screenshot
-![Preview](./design/desktop-design.jpg)
-
 ## 🔗 Links
 - Repository: https://github.com/mateusz2026/Frontend-Mentor-QR-code
 - Live Site: https://mateusz2026.github.io/Frontend-Mentor-QR-code/
