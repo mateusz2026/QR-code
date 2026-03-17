@@ -5,7 +5,7 @@ This project is a solution to the Frontend Mentor QR Code component challenge.
 The goal was to build a clean and responsive card layout using HTML and CSS.
 
 ## 🚀 Live Demo
-https://mateusz2026.github.io/Frontend-Mentor-QR-code/
+https://mateusz2026.github.io/QR-code/
 
 ## 🛠️ Built with
 - HTML5
@@ -24,8 +24,8 @@ https://mateusz2026.github.io/Frontend-Mentor-QR-code/
 - How to work with spacing and typography
 
 ## 🔗 Links
-- Repository: https://github.com/mateusz2026/Frontend-Mentor-QR-code
-- Live Site: https://mateusz2026.github.io/Frontend-Mentor-QR-code/
+- Repository: https://github.com/mateusz2026/QR-code
+- Live Site: https://mateusz2026.github.io/QR-code/
 
 ## 👨‍💻 Author
 - GitHub: https://github.com/mateusz2026
